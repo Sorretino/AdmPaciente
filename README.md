@@ -6,7 +6,7 @@ Criado em 13/11/2020
 banco mysql baixar da pasta BANCOSQL e adicinar localhost.
 
 ## 2 fazer login
-user : fernando@gmail.com
+user : admin@admin.com
 senha: 123
 
 ## 3  Projeto possuem.
